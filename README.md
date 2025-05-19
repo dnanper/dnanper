@@ -1,6 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm dnanper</h2>
 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Learning at [VNU University of Engineering and Technology (VNU - UET)](https://uet.vnu.edu.vn/).\
@@ -11,13 +10,12 @@
 ✉️ &nbsp;You can shoot me an email at anpht1012@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio]() for more details about me. I'm open to feedback and suggestions!
 
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ### 🛠 &nbsp;Tech Stack
 
 #### Programming Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -27,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### Frameworks & Libraries
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -35,12 +34,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Tools & Platforms
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Databases & Query Languages
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -75,6 +76,9 @@ Loading ...
 
 <div align="center">
   <a href="https://github.com/dnanper/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnanper/dnanper/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnanper/dnanper/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dnanper/dnanper/output/github-snake.svg" />
+  </picture>
 </div>
