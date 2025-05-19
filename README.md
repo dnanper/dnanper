@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm dnanper</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm [dnanper](https://dnanper.github.io/github-portfolio/)</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at anpht1012@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://dnanper.github.io/github-portfolio/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
